@@ -1,0 +1,6 @@
+[run]
+omit = 
+        ./scikit-surgery-sphere-fitting/_version.py
+        ./scikit-surgery-sphere-fitting/__init__.py
+        ./scikit-surgery-sphere-fitting/__main__.py
+        ./scikit-surgery-sphere-fitting/ui/scikit-surgery-sphere-fitting_command_line.py

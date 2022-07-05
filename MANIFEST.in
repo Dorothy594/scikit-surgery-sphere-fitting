@@ -1,0 +1,2 @@
+include versioneer.py
+include scikit-surgery-sphere-fitting/_version.py
